@@ -27,5 +27,4 @@ We will be using the following software for this training course:
 
 * Ruby 1.9.3
 * Ruby on Rails 3.2.6
-* RSpec Rails 2.10.1
 * SQLite 3 or MySQL 5
